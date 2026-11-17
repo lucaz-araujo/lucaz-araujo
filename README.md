@@ -6,6 +6,18 @@ Olá! Sou Lucas Araújo, de Fortaleza–CE. Estou construindo minha trajetória 
 
 Meus projetos incluem sistemas de gestão financeira, controle de caixa, cadastro de veículos e experimentos com Arduino. Tenho interesse especial em desenvolvimento web, back-end, APIs e bancos de dados.
 
+## 💼 Experiência profissional
+
+### Estágio Full Stack — Layout Sistemas
+
+Atuação como estagiário Full Stack na empresa Layout Sistemas, contribuindo para o desenvolvimento e a manutenção de aplicações web.
+
+## 🎓 Formação
+
+### Técnico em Informática
+
+Formado pela EEEP Joaquim Nogueira.
+
 ## 🚀 Tecnologias e conhecimentos
 
 - 🐍 **Back-end:** Python, Django, Django REST Framework, Flask e PHP.
