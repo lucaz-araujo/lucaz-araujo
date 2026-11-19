@@ -84,4 +84,4 @@ Busco evoluir como desenvolvedor, transformar aprendizado em soluções úteis e
 ## 📫 Contato
 
 💻 **GitHub:** [github.com/lucaz-araujo](https://github.com/lucaz-araujo)
-📧 **Email**  **pedrolat14@gmail.com**
+📧 **Email**  pedrolat14@gmail.com
