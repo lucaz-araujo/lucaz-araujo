@@ -87,4 +87,4 @@ Busco evoluir como desenvolvedor, transformar aprendizado em soluções úteis e
 
 📧 **Email**  pedrolat14@gmail.com
 
-💼 **Linkedin** [https://www.linkedin.com/in/pedroaraujo32165/](https://acesse.one/linkedin-araujo)
+💼 **Linkedin** [Linkedin-araujo](https://acesse.one/linkedin-araujo)
